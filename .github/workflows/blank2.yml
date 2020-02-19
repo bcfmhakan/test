@@ -1,7 +1,4 @@
 name: CI-prod
-
-on: [push]
-
 jobs:
   build:
 
