@@ -1,7 +1,5 @@
 name: CI-prod
-on:
-  schedule:
-    - cron: 0 0 0 0 0
+on: repository_dispatch
 jobs:
   build:
 
