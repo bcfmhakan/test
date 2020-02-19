@@ -1,5 +1,5 @@
 name: CI-prod
-on: null
+on: []
 jobs:
   build:
 
